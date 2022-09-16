@@ -1,3 +1,4 @@
+#ip addresses of the EC2 instances
 [all]
 ec2-35-174-109-188.compute-1.amazonaws.com
 
